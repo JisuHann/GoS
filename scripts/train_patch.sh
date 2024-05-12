@@ -1,0 +1,1 @@
+python train_patch.py --exp_cfg_path configs/all_patch.yaml --device 0

@@ -1,0 +1,1 @@
+python train_gos.py --exp_cfg_path configs/all_gos.yaml --device 0

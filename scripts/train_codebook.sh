@@ -1,0 +1,1 @@
+python train_codebook_tmp.py --exp_cfg_path configs/all_codebook.yaml --device 0

@@ -1,0 +1,1 @@
+python train_mask.py --exp_cfg_path configs/all_mask.yaml --device 0
